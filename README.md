@@ -32,4 +32,4 @@ out
 که در آن‌ها فایل‌های استیکر همان سال شمسی قرار دارد. 
 
 
-بعد با این ریپو :https://github.com/Amirabbas-MHR/tele_sticker_pack l می‌توان آنها را به استیکر پک تبذیل کرد.
+بعد با این ریپو : https://github.com/Amirabbas-MHR/tele_sticker_pack می‌توان آن ها را به استیکر پک تبدیل کرد.
